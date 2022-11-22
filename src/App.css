@@ -1,0 +1,25 @@
+body{
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  background-repeat: no-repeat;
+  color:white;
+  height:55vh;
+}
+.container{
+  display:flex;
+  justify-content: center;
+  margin-top:25%;
+  padding-left:100px;
+  padding-right:100px;
+}
+.button{
+  border-style: solid;
+  border-radius: 50px;
+  padding:10px;
+  margin-left:75vh;
+  margin-top:25px;
+  width:20vh;
+  color:white;
+  border-color:white;
+  background-color: rgba(255, 255, 255, 0);
+}
